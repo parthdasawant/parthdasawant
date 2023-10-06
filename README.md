@@ -11,14 +11,15 @@
   
 🔭 I’m currently working on **[Paper Trading](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)** 
 
-🌱 I’m currently learning **Gen AI, Flutter** 
+🌱 I’m currently learning **Gen AI, Flutter,...** 
 
 💬 Ask me about **Flutter, AI/ML, GitHub**
 
-📄 Know about my experiences [resume link](resume link)
+📄 Know about my education, experiences, achievements **[Résumé](https://github.com/parthdasawant/parthdasawant/blob/2d337202829cd0b248f856a37e2dbf7d4b9c11df/static/resume.pdf)**
 
-<a href="https://twitter.com/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthdasawant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a>
+🔗 Connect with me <a href="https://twitter.com/intent/follow?screen_name=ParthDasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthdasawant" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a> [<img align="center" alt="parthdasawant | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/parthdasawant)
+
 </div>
 
 
@@ -48,8 +49,8 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+    <a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"></a>
+</h3> 
 
 <br/>
 <br>
