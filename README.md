@@ -25,7 +25,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h4 align="left">Skills</h4>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,aws,azure,c,cpp,css,dart,docker,express,figma,firebase,flask,flutter" />
@@ -36,16 +36,15 @@
 <br/>
 
 <hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<h4 align="left">Stats</h4>
+
 <div align=center>
-  <img width=390 height= 200 align = "left" src="https://streak-stats.demolab.com/?user=parthdasawant&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 height= 200 align = "right" src="https://github-readme-stats.vercel.app/api?username=parthdasawant&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <br/>
+  <img width=300 height= 200 align = "left" src="https://streak-stats.demolab.com/?user=parthdasawant&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=300 height= 200 align = "right" src="https://github-readme-stats.vercel.app/api?username=parthdasawant&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdasawant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&alt="top langs" />
 </div>
 
-<br/><br/>
+
 <hr/>
 
 <h3 align="center">
