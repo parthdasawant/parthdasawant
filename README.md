@@ -6,9 +6,9 @@
 
 <br/>
 
-<div align="center">
+<div align="center" >
   
-🔭 I’m currently working on **[Paper Trading](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)** 
+🔭 I’m currently working on **[Paper Trading](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)** <img src="https://downloads-report-flask-3v8d5l6th-parth-dasawants-projects.vercel.app/" />
 
 🌱 I’m currently learning **Gen AI, Flutter,...** 
 
