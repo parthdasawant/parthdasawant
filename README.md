@@ -7,14 +7,14 @@
 <br/>
 
 <div align="center" >
-  
+
 🔭 I’m currently working on **[Paper Trading](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)** <img src="https://downloads-report-flask-parthdasawant.vercel.app/" />
 
 🌱 I’m currently learning **Gen AI, Flutter,...** 
 
 💬 Ask me about **Flutter, AI/ML, GitHub**
 
-📄 Know about my education, experiences, achievements **[Résumé](https://github.com/parthdasawant/parthdasawant/blob/2d337202829cd0b248f856a37e2dbf7d4b9c11df/static/resume.pdf)**
+📄 Know about my education, experiences, achievements **[Résumé](https://github.com/parthdasawant/portfolio/blob/c3a827026f909a5d4c79b21614ace40391a4aecd/static/resume.pdf)**
 
 🔗 Connect with me <a href="https://twitter.com/intent/follow?screen_name=ParthDasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthdasawant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a> [<img align="center" alt="parthdasawant | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/parthdasawant)
