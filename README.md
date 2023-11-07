@@ -14,7 +14,7 @@
 
 💬 Ask me about **Flutter, AI/ML, GitHub**
 
-📄 Know about my education, experiences, achievements **[Résumé](https://github.com/parthdasawant/portfolio/blob/c3a827026f909a5d4c79b21614ace40391a4aecd/static/resume.pdf)**
+📄 Know about my education, experiences, achievements **[Résumé](https://github.com/parthdasawant/portfolio/blob/6fd18b402a0894b7efdd2c01cc8e4fd3d09d0c16/static/resume.pdf)**
 
 🔗 Connect with me <a href="https://twitter.com/intent/follow?screen_name=ParthDasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthdasawant" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a> [<img align="center" alt="parthdasawant | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/parthdasawant)
