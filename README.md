@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parth+Dasawant;" />
 </h1>
 
-<h3 align="center">A passionate Computer Engineering graduate from India 🇮🇳</h3>
+<h3 align="center">A passionate Computer Engineering Graduate from India 🇮🇳</h3>
 
 <br/>
 
@@ -35,12 +35,27 @@
 <hr/>
 <h4 align="left">Stats</h4>
 
-<div align=center>
-  <img width=390 height= 200 align = "left" src="https://streak-stats.demolab.com/?user=parthdasawant&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 height= 200 align = "right" src="https://github-readme-stats.vercel.app/api?username=parthdasawant&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  <img width=325 height= 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdasawant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&alt="top langs" />
-</div>
+<p align=center>
+    
+<a href="https://github.com/parthdasawant" title="Redirects to github page">
+<img width="49%" src="https://streak-stats.demolab.com/?user=parthdasawant&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    
+<a href="https://github.com/parthdasawant" title="Redirects to github page">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=parthdasawant&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+    
+<a href="https://github.com/parthdasawant" title="Redirects to github page">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdasawant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&alt="top langs" />
+    
+<a href="https://github.com/parthdasawant" title="Redirects to github page">
+<img width="46.5%" src="https://www.chess.com/share/user/parthdasawant" /></a>
 
+</p>
+
+<div align =center>
+
+[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=parthdasawant&custom_title=Parth's%20Activity&hide_border=true&theme=react-dark)](https://github.com/parthdasawant/)
+
+</div>
 <hr/>
 
 <h3 align="center">
