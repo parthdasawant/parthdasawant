@@ -46,7 +46,7 @@
 <a href="https://github.com/parthdasawant" title="Redirects to github page">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthdasawant&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&alt="top langs" />
     
-<a href="https://github.com/parthdasawant" title="Redirects to github page">
+<a href="https://www.chess.com/member/parthdasawant" title="Redirects to github page">
 <img width="46.5%" src="https://www.chess.com/share/user/parthdasawant" /></a>
 
 </p>
