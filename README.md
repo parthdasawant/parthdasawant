@@ -20,10 +20,13 @@
 <a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a> [<img align="center" alt="parthdasawant | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/parthdasawant)
 </div>
 
+
 <hr/>
 
 <h4 align="left">Skills</h4>
+
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=angular,aws,azure,c,cpp,css,dart,docker,express,figma,firebase,flask,flutter" />
     <img src="https://skillicons.dev/icons?i=gcp,git,github,heroku,html,java,javascript,kotlin,linux,mongodb,mysql,nodejs,postgresql" /> <br/>
@@ -62,4 +65,5 @@
     <a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"></a>
 </h3> 
 
+![profile count](https://komarev.com/ghpvc/?username=parthdasawant&color=blue) &nbsp;
 
