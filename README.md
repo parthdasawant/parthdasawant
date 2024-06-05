@@ -62,7 +62,7 @@
 <hr/>
 
 <h3 align="center">
-    <a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)"></a>
+    <a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Drop+me+a+Message;Open+for+Collaboration!"></a>
 </h3> 
 
 ![profile count](https://komarev.com/ghpvc/?username=parthdasawant&color=blue) &nbsp;
