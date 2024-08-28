@@ -1,23 +1,22 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parth+Dasawant;" />
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Contantly%20Curious%20and%20Learning&fontSize=20&&fontColor=FFFFFF"/>
 
-<h3 align="center">A passionate Computer Engineering Graduate from India 🇮🇳</h3>
+<h4 align="left">About Me</h4>
 
-<br/>
+- 🔭 Currently Working on: **Innovative AI-powered solutions** and **Honing my Skills**
 
-<div align="center" >
+- 🌱 Exploring: **Generative AI**, **Cloud** and **Emerging Trends**
 
-🔭 I’m currently working on **[Paper Trading](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)** <img src="https://downloads-report-flask-parthdasawant.vercel.app/" />
+- 💡 Ask Me About: **AI/ML, Flutter, GitHub** and **CI/CD pipelines**
 
-🌱 I’m currently learning **Gen AI, Flutter, Swift...** 
+- 👨🏻‍💻 Work:
+    - **[CDoc: Chat with your Documents](https://github.com/ChatDocDev/CDoc/)** 
+    - **[Paper Trading‎ ‎ ](https://play.google.com/store/apps/details?id=parthdasawant.co.in.paper_trading)**   <img height=19 src="https://downloads-report-flask-parthdasawant.vercel.app/" />
 
-💬 Ask me about **Flutter, AI/ML, GitHub**
+- 🎓 For an overview of my education, projects and accomplishments:
+    - **[📄 Résumé](https://parthdasawant.tech/resume.pdf)**
+    - **[🌐 Portfolio](https://parthdasawant.tech/)**
+      
 
-📄 Know about my education, experiences, achievements **[Résumé](https://parthdasawant.tech/resume.pdf)**
-
-🔗 Connect with me <a href="https://twitter.com/intent/follow?screen_name=ParthDasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="parthdasawant" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/parthdasawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parthdasawant" height="30" width="40" /></a> [<img align="center" alt="parthdasawant | GitHub" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fgithub.png?alt=media" />](https://github.com/parthdasawant)
 </div>
 
 
@@ -28,9 +27,9 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=angular,aws,azure,c,cpp,css,dart,docker,express,figma,firebase,flask,flutter" />
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,heroku,html,java,javascript,kotlin,linux,mongodb,mysql,nodejs,postgresql" /> <br/>
-    <img src="https://skillicons.dev/icons?i=android,android,android,postman,python,pytorch,sqlite,swift,tensorflow,typescript,android,android,android"/>
+    <img widht="100%" src="https://skillicons.dev/icons?i=angular,aws,azure,bash,c,cpp,css,dart,docker,express,fastapi,figma,firebase,flask,flutter" />
+    <img widht="100%" src="https://skillicons.dev/icons?i=gcp,git,github,githubactions,heroku,html,java,javascript,jenkins,kotlin,kubernetes,latex,linux,md,mongodb" /> <br/>
+    <img widht="100%" src="https://skillicons.dev/icons?i=mysql,nodejs,notion,postgresql,postman,python,pytorch,regex,sklearn,sqlite,swift,tensorflow,typescript"/>
 </div>
 
 <br/>
@@ -60,10 +59,12 @@
 
 </div>
 <hr/>
+<h4 align="center" >
+<a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?size=20&center=true&vCenter=true&width=500&pause=2000&height=70&duration=4000&lines=Thanks+for+visiting!;Drop+me+a+Message;Open+for+Collaboration!"></a>
+</h4>
+<img src="https://komarev.com/ghpvc/?username=parthdasawant&color=blue" alt="profile count" />
 
-<h3 align="center">
-    <a href= "https://linkedin.com/in/parthdasawant" target="blank"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Drop+me+a+Message;Open+for+Collaboration!"></a>
-</h3> 
 
-![profile count](https://komarev.com/ghpvc/?username=parthdasawant&color=blue) &nbsp;
+
+
 
