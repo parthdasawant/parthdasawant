@@ -14,7 +14,7 @@
 
 - 🎓 For an overview of my education, projects and accomplishments:
     - **[📄 Résumé](https://parthdasawant.tech/resume.pdf)**
-    - **[🌐 Portfolio](https://parthdasawant.tech/)**
+    - **[🌐 Portfolio](https://parthdasawant.live/)**
       
 
 </div>
